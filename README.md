@@ -1,2 +1,1 @@
-# rtriders.github.io
-My first repo
+# Enterprise-Resource-Planning-System-for-Colleges
